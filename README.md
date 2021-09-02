@@ -1,4 +1,4 @@
-# Aplicación de consola: Lista de Tareas.
+# Aplicación de consola: Clima.
 
 Esta aplicación te permite consultar el estado actual del clima de la ciudad que desees.
 
