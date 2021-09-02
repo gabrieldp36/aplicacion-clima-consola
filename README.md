@@ -1,0 +1,25 @@
+# Aplicación de consola: Lista de Tareas.
+
+Esta aplicación te permite consultar el estado actual del clima de la ciudad que desees.
+
+### Notas:
+
+Recuerden reconstuir los módulos de Node:
+
+```
+npm install
+```
+
+y, no olviden ingresar los token de acceso para las API de MapBox y Open Wheather.
+
+```
+https://www.mapbox.com/
+
+https://www.openweathermap.org/
+```
+
+Tales tokens de acceso se deben pegar en el archivo example.env, debiendo renombrar tal archivo de la siguiente manera:
+
+```
+.env
+```
