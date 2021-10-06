@@ -69,7 +69,9 @@ const leerInput = async (mensaje) => {
         message: mensaje,
         validate(value) {
 
-            if (value.length === 0) {
+            const texto = value.trim();
+
+            if (texto.length === 0) {
 
                 return 'Por favor ingrese una descripción.';
             };
