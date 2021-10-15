@@ -38,6 +38,9 @@ const main = async () => {
 
                 if (idCiudad === '0') continue;
 
+                console.log();
+                console.log('Cargando...'.green);
+
                 const ciudadSeleccionada = ciudades.find( ciudad => ciudad.id === idCiudad );
 
                 busquedas.agregarHistorial(ciudadSeleccionada.nombre);
