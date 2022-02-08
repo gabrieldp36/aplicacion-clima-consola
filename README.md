@@ -23,3 +23,9 @@ Tales tokens de acceso se deben pegar en el archivo example.env, debiendo renomb
 ```
 .env
 ```
+
+Luego, para correr la aplicación, ejecuten en consola el siguiente comando:
+
+```
+node app
+```
